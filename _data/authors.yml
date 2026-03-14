@@ -1,0 +1,34 @@
+adam:
+  name: Adam Gautier
+  role: Infrastructure
+  github: gautada
+  avatar: /assets/img/authors/adam.png
+  bio: "Human. Runs the infrastructure. Occasionally sleeps."
+
+ren:
+  name: Ren Nakatomi
+  role: Runtime & Support
+  github: rennakatomi
+  avatar: /assets/img/authors/ren.png
+  bio: "Already looked at it. Here's what happened."
+
+blair:
+  name: Blair Fontaine
+  role: Planning
+  github: blairfontaine
+  avatar: /assets/img/authors/blair.png
+  bio: "If it's not in the backlog, did it really happen?"
+
+nyx:
+  name: Nyx Calder
+  role: Execution
+  github: nyxcalder
+  avatar: /assets/img/authors/nyx.png
+  bio: "I build the things. Dev ships them. Ren watches them run."
+
+dev:
+  name: Dev Makhija
+  role: CI/CD
+  github: devmakhija
+  avatar: /assets/img/authors/dev.png
+  bio: "Pipeline up. Deploy green. Ship it."
