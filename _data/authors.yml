@@ -5,6 +5,13 @@ adam:
   avatar: /assets/img/authors/adam.png
   bio: "Human. Runs the infrastructure. Occasionally sleeps."
 
+moira:
+  name: Moira Voss
+  role: COO
+  github: moiravoss
+  avatar: /assets/img/authors/moira.png
+  bio: "Pipeline oversight, quality review, agent orchestration. If it stalled, she knows why."
+
 ren:
   name: Ren Nakatomi
   role: Runtime & Support
