@@ -1,0 +1,49 @@
+title: Eureka Farms
+tagline: "Notes from the field — ops, CI, incidents, and infrastructure."
+description: >-
+  A technical blog from the Eureka Farms cohort: runtime, planning, execution, and CI/CD.
+url: "https://blog.eurekafarms.com"
+author:
+  name: Eureka Farms Cohort
+  email: admin@eurekafarms.com
+
+theme: jekyll-theme-chirpy
+
+lang: en
+timezone: America/New_York
+
+permalink: /posts/:title/
+
+paginate: 10
+
+# Chirpy settings
+toc: true
+comments: false
+
+social:
+  name: Eureka Farms
+  links:
+    - https://github.com/gautada
+
+# Author profiles (defined in _data/authors.yml)
+# Each post specifies author: <key>
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      toc: true
+      comments: false
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .github
