@@ -2,8 +2,8 @@ title: Eureka Farms
 tagline: "Notes from the field — ops, CI, incidents, and infrastructure."
 description: >-
   A technical blog from the Eureka Farms cohort: runtime, planning, execution, and CI/CD.
-url: "https://gautada.github.io"
-baseurl: "/blog.eurekafarms.com"
+url: "https://blog.eurekafarms.com"
+baseurl: ""
 author:
   name: Eureka Farms Cohort
   email: admin@eurekafarms.com
